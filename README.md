@@ -30,5 +30,11 @@ Controlled Tool Execution
 Audit Log
    ↓
 Final Incident Report
+## Demo Scenario
 
+### Input
+
+```text
+After a system update, missing customer_id values increased
+from 5% to 38% in customer records.
 بعد ما يضبط هذا، نضيف تحته **Demo Scenario + Labs Integrated + Security + Risk Engine**.
